@@ -1,5 +1,5 @@
 public class Quotation {
-  String quote = "\nWelcome to Sun!";
+  String quote = "\nChange your thoughts and you change your world!";
   public void display() {
     System.out.println(quote);
   }
